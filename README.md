@@ -5,6 +5,8 @@
 
 **Mata Kuliah:** Testing dan Quality Assurance
 
+**DOSEN :
+
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk melakukan pengujian perangkat lunak pada website bisnis menggunakan metode dan standar pengujian yang relevan.
